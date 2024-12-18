@@ -152,7 +152,12 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
      - **Reading:** [AWS Deployment Guide](https://aws.amazon.com/getting-started/)  
      - **Video:** [Deploying to AWS](https://www.youtube.com/watch?v=l134cBAJCuc)
   2. Configure CI/CD pipelines for automated deployment.
-  3. Test the deployed application for bugs and performance.
+     - **Reading:** [CICD Guide](https://www.ibm.com/think/topics/ci-cd-pipeline)  
+     - **Video:** [CICD video](https://www.youtube.com/watch?v=G1u4WBdlWgU) 
+  4. Test the deployed application for bugs and performance.
+     - **Reading:** [Testing Guide](https://jestjs.io/docs/tutorial-react)  
+     - **Video:** [Testing video](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=2017s) 
+ 
 
 - **Deliverables:**  
   - Live CRM Ticket System accessible via public URL.
