@@ -109,7 +109,8 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
      - **Reading:** [JWT Basics](https://jwt.io/introduction/)  
      - **Video:** [JWT Implementation](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Implement login/logout functionalities on the frontend.
-
+     - **Reading:** [Login docs](https://dev.to/sanjayttg/jwt-authentication-in-react-with-react-router-1d03)  
+     - **Video:** [Login Turorial](https://www.youtube.com/watch?v=Xc_MPV9EtNs)
 - **Deliverables:**  
   - Functional authentication system with JWT.
 
@@ -125,7 +126,7 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
      - **Reading:** [RESTful API Design](https://restfulapi.net/)  
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   3. Implement ticket UI on the client side.
-
+    
 - **Deliverables:**  
   - Functional ticket creation and management system.
 
