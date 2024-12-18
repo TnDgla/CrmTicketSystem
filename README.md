@@ -89,6 +89,9 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
      - **Reading:** [React Router Docs](https://reactrouter.com/en/main/start/overview)  
      - **Video:** [React Router Tutorial](https://www.youtube.com/watch?v=Law7wfdg_ls)
   4. Set up a GitHub repository and integrate with Trello for task management.
+     - **Reading:** [Trello Docs](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)  
+     - **Video:** [React Router Tutorial](https://www.youtube.com/watch?v=QA_RSS2dXK8)
+     
 
 - **Deliverables:**  
   - Basic project setup with GitHub integration.
