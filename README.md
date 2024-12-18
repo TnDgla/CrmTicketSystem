@@ -74,6 +74,13 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
 
 ---
 
+### **Project Structure for Feature Implementation**
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
+
+**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
+
+---
+
 ## **Week-by-Week Learning Plan**
 
 ### **Week 1: Project Setup and UI Development**
@@ -180,6 +187,20 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
 
 4. **AWS Deployment**:  
    - Scalable and reliable hosting  
+
+---
+
+## Screenshots
+![Screenshot (341)](https://github.com/user-attachments/assets/9b871a93-9a4a-44c9-8b57-f6baa6dab665)
+![Screenshot (342)](https://github.com/user-attachments/assets/a18aa79c-ad83-43bd-9a4f-60699debee94)
+![Screenshot (343)](https://github.com/user-attachments/assets/784e53a0-fbda-41b2-a07d-8f138b042714)
+![Screenshot (344)](https://github.com/user-attachments/assets/37861a18-0104-4566-b211-41a2cb2a53e1)
+![Screenshot (335)](https://github.com/user-attachments/assets/9bad54aa-0833-401b-9b91-22733e0d5109)
+![Screenshot (336)](https://github.com/user-attachments/assets/9e72f7c4-0454-403c-9199-cebe233d6683)
+![Screenshot (337)](https://github.com/user-attachments/assets/ec5b3c82-d900-43ef-8e89-52f6f586597d)
+![Screenshot (338)](https://github.com/user-attachments/assets/92b9a525-15bd-4b3b-8fa1-31fe93b70f1f)
+![Screenshot (339)](https://github.com/user-attachments/assets/f1364eed-5adf-4ea1-943e-805ada9e6279)
+![Screenshot (340)](https://github.com/user-attachments/assets/4b5b36aa-c09c-4c32-8305-62074acb963a)
 
 ---
 
