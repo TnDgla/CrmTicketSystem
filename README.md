@@ -136,8 +136,8 @@ It uses AWS services for hosting and load balancing, with a CI/CD pipeline for c
 - **Tasks:**
   1. Create admin-specific APIs for client and ticket management.
   2. Develop admin panel UI with server-side rendering.
-     - **Reading:** [Server-Side Rendering in Node.js](https://expressjs.com/en/advanced/developing-template-engines.html)  
-     - **Video:** [Node.js SSR Tutorial](https://www.youtube.com/watch?v=Zxwq3aW9ctU)
+     - **Reading:** [Server-Side Rendering in Node.js](https://www.geeksforgeeks.org/node-js-server-side-rendering-ssr-using-ejs/)  
+     - **Video:** [Node.js SSR Tutorial](https://www.youtube.com/watch?v=yy9cbu_e3Xg)
 
 - **Deliverables:**  
   - Fully functional admin panel with protected routes.
